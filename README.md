@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
 <h3 align="center">A passionate full-stack developer and an undergraduate at the University of Illinois at Urbana-Champaign.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
+
+- 🔭 I’m currently working on **notyet**
+
+- 🌱 I’m currently learning **SpringCloud**
+
+- 👯 I’m looking to collaborate on **notyet**
+
+- 🤝 I’m looking for help with **notyet**
+
+- 👨‍💻 All of my projects are available at [banghao.me](banghao.me)
+
+- 💬 Ask me about **React and SpringBoot!**
+
+- 📫 How to reach me **banghao2@illinois.edu**
+
+- ⚡ Fun fact **LOL**
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
 <h3 align="center">Connect with me:</h3>
