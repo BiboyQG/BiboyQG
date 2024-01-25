@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **notyet**
 
-- 👨‍💻 All of my projects are available at [banghao.studio](banghao.studio)
+- 👨‍💻 All of my projects are available at [banghao.studio](https://banghao.studio)
 
 - 💬 Ask me about **React and SpringBoot!**
 
