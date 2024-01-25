@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React and SpringBoot!**
 
-- 📫 How to reach me **banghao2@illinois.edu**
+- 📫 How to reach me **banghao2@illinois.edu** or **banghao.ch@gmail.com**
 
 - ⚡ Fun fact **LOL**
 
