@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
-- 🔭 I’m currently working on **notyet**
+- 🔭 I’m currently working on my personal website using **React + SpringBoot**
 
 - 🌱 I’m currently learning **SpringCloud**
 
-- 👯 I’m looking to collaborate on **notyet**
+- 👯 I’m looking to collaborate on **Reinforcement Learning + Robotics**
 
-- 🤝 I’m looking for help with **notyet**
+- 🤝 I’m looking for help with **Computer Vision and NLP**
 
 - 👨‍💻 All of my projects are available at [banghao.studio](https://banghao.studio)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **banghao2@illinois.edu** or **banghao.ch@gmail.com**
 
-- ⚡ Fun fact **LOL**
+- ⚡ Fun fact **I like dancing as well LOL**
 
 
 
