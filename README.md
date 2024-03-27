@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
-<h3 align="center">A passionate full-stack developer and reinforcement learning student an undergraduate at the University of Illinois at Urbana-Champaign.</h3>
+<h3 align="center">A passionate Research Assistant and an undergraduate at the University of Illinois at Urbana-Champaign.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
 - 🔭 I’m currently working on my personal website using **React + SpringBoot**
 
-- 🌱 I’m currently learning **SpringCloud**
+- 🌱 I’m currently learning **3D Object Detection and SpringCloud**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning + Robotics**
 
-- 🤝 I’m looking for help with **Computer Vision and NLP**
+- 🤝 I’m looking for help with **3D Object Detection and NLP**
 
 - 👨‍💻 All of my projects are available at [banghao.studio](https://banghao.studio)
 
