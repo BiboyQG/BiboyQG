@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on my personal website using **React + SpringBoot**
 
-- 🌱 I’m currently learning **3D Object Detection and SpringCloud**
+- 🌱 I’m currently learning **Quantization of 3D Object Detection and SpringCloud**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning + Robotics**
 
 - 🤝 I’m looking for help with **3D Object Detection and NLP**
 
-- 👨‍💻 All of my projects are available at [banghao.studio](https://banghao.studio)
+- 👨‍💻 Know more about me at [banghao.live](https://banghao.live)
 
 - 💬 Ask me about **React and SpringBoot!**
 
