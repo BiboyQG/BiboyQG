@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React and SpringBoot!**
 
-- 📫 How to reach me **banghao2@illinois.edu** or **banghao.ch@gmail.com**
+- 📫 How to reach me: Both **banghao2@illinois.edu** or **banghao.ch@gmail.com** are good!
 
 - ⚡ Fun fact **I like dancing as well LOL**
 
