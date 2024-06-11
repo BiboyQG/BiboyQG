@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my personal website using **React + SpringBoot**
 
-- 🌱 I’m currently learning **Quantization of 3D Object Detection and SpringCloud**
+- 🌱 I’m currently learning **Quantization of 3D Object Detection and Automatic Short Answer Grading (ASAG)**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning + Robotics**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Know more about me at [banghao.live](https://banghao.live)
 
-- 💬 Ask me about **React and SpringBoot!**
+- 💬 Ask me about **React, CV and NLP**!
 
 - 📫 How to reach me: Both **banghao2@illinois.edu** or **banghao.ch@gmail.com** are good!
 
