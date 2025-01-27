@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
-- 🔭 I’m currently working on my personal website using **React + SpringBoot**
+- 🔭 I’m currently working on my personal website using **React + Golang**
 
-- 🌱 I’m currently learning **Quantization of 3D Object Detection and Automatic Short Answer Grading (ASAG)**
+- 🌱 I’m currently learning **LLM-based Agent Application**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning + Robotics**
 
 - 🤝 I’m looking for help with **3D Object Detection and NLP**
 
-- 👨‍💻 Know more about me at [banghao.live](https://banghao.live)
+- 👨‍💻 Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) and [banghao.live](https://banghao.live)
 
-- 💬 Ask me about **React, CV and NLP**!
+- 💬 Ask me about **Python, CV and NLP**!
 
 - 📫 How to reach me: Both **banghao2@illinois.edu** or **banghao.ch@gmail.com** are good!
 
