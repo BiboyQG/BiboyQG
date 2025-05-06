@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
 <h3 align="center">A passionate Research Assistant and an undergraduate at the University of Illinois at Urbana-Champaign.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
-
 - 🔭 I’m currently working on my personal website using **React + Golang**
 
 - 🌱 I’m currently learning **LLM-based Agent Application**
