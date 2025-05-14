@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
-<h3 align="center">A passionate Research Assistant and an undergraduate at the University of Illinois at Urbana-Champaign.</h3>
+<h3 align="center">Incoming M.S. CS student at the University of Illinois at Urbana-Champaign.</h3>
 
-- 🔭 I’m currently working on my personal website using **React + Golang**
+- 🔭 I’m currently working on my personal Blog website using **React + Golang**
 
-- 🌱 I’m currently learning **LLM-based Agent Application**
+- 🌱 I’m currently learning **LLM-based Agent Applications**
 
-- 👯 I’m looking to collaborate on **Reinforcement Learning + Robotics**
-
-- 🤝 I’m looking for help with **3D Object Detection and NLP**
+- 👯 I’m looking to collaborate on **Research in MLSys and LLMs**
 
 - 👨‍💻 Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) and [banghao.live](https://banghao.live)
 
 - 💬 Ask me about **Python, CV and NLP**!
 
-- 📫 How to reach me: Both **banghao2@illinois.edu** or **banghao.ch@gmail.com** are good!
+- 📫 How to reach me: Both **banghao2@illinois.edu** or **banghao_chi@163.com** are good!
 
 - ⚡ Fun fact **I like dancing as well LOL**
 
