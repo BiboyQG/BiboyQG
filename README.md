@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
+<h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign.</h3>
 
 - 🌱 I’m currently conducting research in LLMs & ML System
-- 💞️ M.S. CS student at the University of Illinois at Urbana-Champaign.
 - 👨‍💻 Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) and [banghao.live](https://banghao.live)
 - 📫 How to reach me: banghao2@illinois.edu || banghao_chi@163.com
 
