@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
+
 ![Visitor Count](https://profile-counter.glitch.me/BiboyQG/count.svg)
+
 <h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign.</h3>
 
 <div align="center">
