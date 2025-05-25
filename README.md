@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
 
 <div align="center">
-  
+
 ![Visitor Count](https://profile-counter.glitch.me/BiboyQG/count.svg)
 
 </div>
@@ -10,11 +10,11 @@
 
 <div align="center">
 
-I’m currently conducting research in LLMs & ML System
+I’m currently conducting research on LLMs & ML System
 
-My research focuses on LLMs inference optimization and its applications
+My research focuses on LLMs inference optimization
 
-How to reach me: banghao2@illinois.edu || banghao_chi@163.com
+How to reach me: banghao2@illinois.edu | banghao_chi@163.com
 
 Know more about me at [biboyqg.github.io](https://biboyqg.github.io/), [banghao.live](https://banghao.live), and [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/)
 
