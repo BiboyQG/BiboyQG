@@ -2,13 +2,7 @@
 <h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign.</h3>
 
 - 🌱 I’m currently conducting research in LLMs & ML System
-
-- 👯 I’m looking to collaborate on **Research in MLSys and LLMs**
-
 - 👨‍💻 Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) and [banghao.live](https://banghao.live)
-
-- 💬 Ask me about **Python, CV and NLP**!
-
 - 📫 How to reach me: banghao2@illinois.edu || banghao_chi@163.com
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
@@ -20,12 +14,6 @@
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biboyqg&show_icons=true&locale=en&layout=compact" alt="biboyqg" /></p>
-
-<br/>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biboyqg&show_icons=true&locale=en" alt="biboyqg" /></p>
-
-<br/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biboyqg&" alt="biboyqg" /></p>
