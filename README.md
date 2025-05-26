@@ -10,13 +10,11 @@
 
 <div align="center">
 
-I’m currently conducting research on LLMs & ML System
-
-My research focuses on LLMs inference optimization
+My research focuses LLMs and ML System
 
 How to reach me: banghao2@illinois.edu | banghao_chi@163.com
 
-Know more about me at [biboyqg.github.io](https://biboyqg.github.io/), [banghao.live](https://banghao.live), and [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/)
+Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) | [banghao.live](https://banghao.live) | [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/)
 
 ✨ **Goal is Self-Consistent AI** ✨
 
