@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
+<h2 align="center">Hi 👋, I'm Banghao Chi!</h2>
 
 <h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign.</h3>
 
