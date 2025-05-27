@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Banghao Chi!</h1>
+<h1 align="center">Hi <img src="assets/hi.gif" height="16" alt="wave"/>, I'm Banghao Chi!</h1>
 
 <div align="center">
 
