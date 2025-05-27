@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign.</h3>
+<h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign</h3>
 
 <div align="center">
 
