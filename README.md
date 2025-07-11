@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
-
 <h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign</h3>
 
 <div align="center">
@@ -15,6 +13,8 @@ How to reach me: banghao2@illinois.edu | banghao_chi@163.com
 Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) | [banghao.live](https://banghao.live) | [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/)
 
 ✨ **Goal is Self-Consistent AI** ✨
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake-dark.svg">
