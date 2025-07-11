@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/BiboyQG/count.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
 </div>
 
