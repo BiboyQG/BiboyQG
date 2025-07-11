@@ -4,8 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
-</div>
-
 <h3 align="center">M.S. CS student at the University of Illinois at Urbana-Champaign</h3>
 
 <div align="center">
