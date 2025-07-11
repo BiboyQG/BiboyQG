@@ -20,6 +20,6 @@ Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) | [banghao
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
 
 </div>
