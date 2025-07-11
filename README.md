@@ -14,12 +14,12 @@ Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) | [banghao
 
 ✨ **Goal is Self-Consistent AI** ✨
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" /> </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://komarev.com/ghpvc/?username=biboyqg&label=Profile%20views&color=0e75b6&style=flat" alt="biboyqg" />
 
 </div>
