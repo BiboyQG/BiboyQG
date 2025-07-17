@@ -6,7 +6,7 @@
 
 <div align="center">
 
-My research focuses LLMs and ML System
+My research focus are LLMs and ML System
 
 How to reach me: banghao2@illinois.edu | banghao_chi@163.com
 
