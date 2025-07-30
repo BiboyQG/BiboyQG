@@ -1,6 +1,6 @@
 <h1 align="center"><img src="assets/hi.gif" height="26" alt="wave"/> Hi, I'm Banghao Chi!</h1>
 
-My last name is **`Chi`**, which is exactly the same to one of the Backend frameworks in Go ;)
+My last name is **`Chi`**, which is exactly the same as the name of one of the Backend frameworks in Go ;)
 
 - 🏫 I'm currently an M.S. Computer Science student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
 - 👨‍🎓 I completed my Bachelor's degree in Mathematics at UIUC. Before that, I studied CS at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
@@ -9,7 +9,7 @@ My last name is **`Chi`**, which is exactly the same to one of the Backend frame
 - 🆕 I'm doing research focusing on **LLM4Code** and **ML System**.
 - 🌍 I like traveling (enjoy walking on the street) and playing 🏓 table tennis.
 
-If you're interested, please checkout my personal [✏️ blog](https://banghao.live) where I share my ordinary yet joyful life. You can also find me on these sources: [My Website](https://biboyqg.github.io/) and [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/).
+If you're interested, please checkout my personal [✏️ blog](https://banghao.live) where I share my ordinary yet joyful life. You can also find more about me on these sources: [My Website](https://biboyqg.github.io/) and [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/).
 
 Feel free to contact me via <a href="mailto:banghao2@illinois.edu">Email</a>, [WeChat](id:banghao1023) or [WhatsApp](+12173286124).
 
