@@ -14,6 +14,9 @@ Know more about me at [biboyqg.github.io](https://biboyqg.github.io/) | [banghao
 
 ✨ **Goal is Self-Consistent AI** ✨
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiboyQG/BiboyQG/output/github-contribution-grid-snake.svg">
