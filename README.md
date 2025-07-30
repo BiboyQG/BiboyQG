@@ -16,6 +16,11 @@ Feel free to contact me via <a href="mailto:banghao2@illinois.edu">Email</a>, [W
 ✨ **Goal is Self-Consistent AI** ✨
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
