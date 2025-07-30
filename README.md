@@ -3,10 +3,10 @@
 My last name is **`Chi`**, which is exactly the same to one of the Backend frameworks in Go ;)
 
 - 🏫 I'm currently an M.S. Computer Science student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
-- 👨‍🎓 I completed my Bachelor's degree in Mathematics at the UIUC. Before that, I studied Computer Science for two years at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
-- 💼 I was an intern at **[National Center for Supercomputing Applications]([https://www.linkedin.com/company/pwc-ac-shanghai/](https://www.ncsa.illinois.edu/))** and **[Supercomputing System AI Lab](https://supercomputing-system-ai-lab.github.io/)**.
+- 👨‍🎓 I completed my Bachelor's degree in Mathematics at UIUC. Before that, I studied CS at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en).
+- 💼 I was an intern at **[National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)** and **[Supercomputing System AI Lab](https://supercomputing-system-ai-lab.github.io/)**.
 - 👨‍💻 I have experience with Python, C++, Java, and JavaScript. Currently, I prefer writing **Python** and **Go**.
-- 🆕 I'm doing research focusing on LLMs and ML System.
+- 🆕 I'm doing research focusing on **LLM4Code** and **ML System**.
 - 🌍 I like traveling (enjoy walking on the street) and playing 🏓 table tennis.
 
 If you're interested, please checkout my personal [✏️ blog](https://banghao.live) where I share my ordinary yet joyful life. You can also find me on these sources: [My Website](https://biboyqg.github.io/) and [LinkedIn](https://www.linkedin.com/in/banghao-chi-550737276/).
