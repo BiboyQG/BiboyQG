@@ -13,7 +13,7 @@ If you're interested, please checkout my personal [✏️ blog](https://banghao.
 
 Feel free to contact me via <a href="mailto:banghao2@illinois.edu">Email</a>, [WeChat](id:banghao1023) or [WhatsApp](+12173286124).
 
-✨ **Goal is Self-Consistent AI** ✨
+📊 **Development breakdown**
 
 <!--START_SECTION:waka-->
 
