@@ -18,7 +18,12 @@ Feel free to contact me via <a href="mailto:banghao2@illinois.edu">Email</a>, [W
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++        1 hr 48 mins    ██████████████████████░░░   88.02 %
+JSON       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Other      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+C          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
