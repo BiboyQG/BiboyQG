@@ -18,14 +18,14 @@ Feel free to contact me via <a href="mailto:banghao2@illinois.edu">Email</a>, [W
 <!--START_SECTION:waka-->
 
 ```txt
-Python             177 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.35 %
-Markdown           64 hrs 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Python             177 hrs 41 mins       ██████████▓░░░░░░░░░░░░░░   43.33 %
+Markdown           64 hrs 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
 Other              39 hrs 33 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
 JSON               25 hrs 32 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-TeX                19 hrs 46 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+TeX                19 hrs 46 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 Text               13 hrs 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 Bash               12 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-C++                10 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+C++                10 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 YAML               7 hrs 27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 Lua                7 hrs 25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
